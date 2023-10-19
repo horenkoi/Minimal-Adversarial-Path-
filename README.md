@@ -1,4 +1,4 @@
-# Minimal-Adversarial-Path-
+# Minimal-Adversarial-Path
 Running the file 
 Swiss_roll_compare_MAD.m
 reproduces computation of Minimal Adversarial Paths for various AI tools on a double Swiss roll benchmark.
